@@ -1,2 +1,0 @@
-# EastPressHub
-Latest tech topics
